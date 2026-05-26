@@ -30,8 +30,4 @@ Real-time drone fleet tracking system built with ASP.NET Core, SignalR, SQLite a
 - JavaScript
 - Leaflet.js
 
----
 
-
-       ↓
-Realtime Dashboard
